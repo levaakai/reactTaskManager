@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Go Swimming ",
+      "day": "March 1st 2022 ",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Go Scuba Diving ",
+      "day": "May 1st 2022 ",
+      "reminder": false
+    },
+    {
+      "text": "get ice-cream",
+      "day": "1st june 2022",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Let's React-native-ly",
+      "day": "31st May | 9am",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "eat spaghetti🤔",
+      "day": "Tuesday 11zm",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
